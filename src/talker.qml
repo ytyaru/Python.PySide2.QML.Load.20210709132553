@@ -4,6 +4,7 @@ Rectangle {
   width: 600
   height: 300
   color: "#FFCCDD"
+  anchors.fill: parent
 
   TextInput {
     id: _talkText
